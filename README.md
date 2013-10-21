@@ -1,4 +1,4 @@
-saucy
+admin
 =====
 
 Laravel package for administration
